@@ -1,1 +1,1 @@
-from testing import *
+from quiz_component2 import *
